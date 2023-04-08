@@ -1,0 +1,4 @@
+node_modules
+
+## Git ignore DotEnvs
+.env
